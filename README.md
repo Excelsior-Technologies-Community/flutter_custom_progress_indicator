@@ -11,7 +11,7 @@
 ## 📷 Preview
 
 <p align="center">
-  <img src="assets/custom_progress_indicator.gif" alt="Custom Progress Indicator Preview" width="600"/>
+  <img src="assets/custom_progress_indicator.gif" alt="Custom Progress Indicator Preview" width="320"/>
 </p>
 
 *A premium interactive circular and linear progress indicator package featuring smooth progress animations, gradient support, custom text formatting, and widget overlays.*
